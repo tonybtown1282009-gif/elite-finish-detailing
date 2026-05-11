@@ -24,15 +24,15 @@ The palette is intentionally tight — four colors, used with discipline.
 
 | Role         | Color        | Hex       | Usage |
 |--------------|--------------|-----------|-------|
-| Primary      | Deep Black   | `#0a0a0a` | Backgrounds, logo base, primary text on light surfaces |
+| Primary      | White        | `#ffffff` | Primary background, page and card surfaces |
 | Accent       | Steel Blue   | `#1e3a5f` | Headings, buttons, logo accent, link color |
-| Light        | White        | `#ffffff` | Text on dark backgrounds, card surfaces (desktop) |
+| Text         | Deep Black   | `#0a0a0a` | Primary body text, wordmark on light surfaces |
 | Neutral      | Light Grey   | `#d9d9d9` | Dividers, secondary text, card borders, subtle backgrounds |
 
 **Rules:**
-- Default to **black-dominant layouts** with steel blue accents.
-- White is for content surfaces and reverse type — never as a primary brand field.
-- Light grey is supporting only. Never use it for primary text on white.
+- Default to **white-dominant layouts** with steel blue accents and deep black text.
+- Steel blue is the only accent — use it for headings, buttons, and the logo mark.
+- Light grey is supporting only. Never use it for primary text.
 - Do not introduce new accent colors (no reds, no chrome silvers, no metallics).
 
 ---
@@ -52,7 +52,7 @@ Recommended pairings (any one of these is acceptable):
 - **H2 (section):** Sans-serif, 700, sentence case.
 - **H3 (service name):** Sans-serif, 600, slightly tighter tracking.
 - **Body:** Sans-serif, 400/500, comfortable line height (1.5+).
-- **Captions / fine print:** Sans-serif, 500, light grey on dark or dark on light.
+- **Captions / fine print:** Sans-serif, 500, light grey or deep black depending on contrast needs.
 
 **Do not:**
 - Mix more than two type weights in a single layout block.
@@ -63,11 +63,11 @@ Recommended pairings (any one of these is acceptable):
 
 ## 4. Logo Concept
 
-- **Background:** Deep black field.
-- **Mark:** Steel blue and white — a subtle gloss highlight or a clean side-profile car silhouette. The mark should read at a glance on a 1-inch business card and on a truck door.
-- **Wordmark:** "ELITE FINISH DETAILING" set in the brand sans-serif, 700 weight, white or steel blue depending on placement.
+- **Background:** White field.
+- **Mark:** Steel blue with optional deep black detail — a subtle gloss highlight or a clean side-profile car silhouette. The mark should read at a glance on a 1-inch business card and on a truck door.
+- **Wordmark:** "ELITE FINISH DETAILING" set in the brand sans-serif, 700 weight, deep black or steel blue depending on placement.
 - **Negative space matters.** Keep clear space around the mark equal to the cap-height of the wordmark.
-- **One-color variants:** Provide an all-white version (for dark photo overlays) and an all-black version (for light surfaces and print).
+- **One-color variants:** Provide an all-black version (for light surfaces and print) and an all-white knockout version (for use over photography).
 
 ---
 
@@ -77,7 +77,7 @@ All brand surfaces — site, menu cards, social graphics — must work mobile-fi
 
 - **Mobile:** Single-column stack. Full-width sections. Comfortable tap targets. Service blocks stack vertically with clear dividers.
 - **Desktop / tablet:** Card or grid layout. Services arranged 2–3 across with consistent card height. Maintain generous whitespace; never crowd the grid.
-- **Imagery:** Dark, high-contrast photography. Wet paint, reflections, and clean interiors. Avoid bright daylight shots that wash out the steel blue.
+- **Imagery:** High-contrast photography. Wet paint, reflections, and clean interiors. Avoid washed-out daylight shots that flatten the steel blue.
 - **Buttons:** Steel blue fill, white text, square or 4px-rounded corners. No gradients, no drop shadows.
 
 ---
@@ -205,7 +205,7 @@ The brand system must hold up across all of the following surfaces. Each should 
 - **Facebook Marketplace Graphics** — square (1080×1080) and vertical (1080×1350) ad-style images with a strong before/after or single-service hook.
 - **Nextdoor Graphics** — neighborhood-focused, local-first messaging. Lead with Chardon / Geauga / Cuyahoga.
 - **Before / After Photo Templates** — side-by-side or slider layout with consistent labeling and watermark placement.
-- **Business Card** — black field, steel blue accent, white wordmark, phone + service area on the reverse.
+- **Business Card** — white field, steel blue accent, deep black wordmark, phone + service area on the reverse.
 - **Booking / Pricing Page** *(future)* — responsive web page with the service grid (desktop) / stack (mobile), price ranges, condition upcharge notice, and a clear booking CTA.
 
 ---

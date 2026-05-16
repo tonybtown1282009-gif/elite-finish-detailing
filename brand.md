@@ -27,12 +27,12 @@ The palette is intentionally tight — four colors, used with discipline.
 | Primary      | White        | `#ffffff` | Primary background, page and card surfaces |
 | Accent       | Steel Blue   | `#1e3a5f` | Headings, buttons, logo accent, link color |
 | Text         | Deep Black   | `#0a0a0a` | Primary body text, wordmark on light surfaces |
-| Neutral      | Light Grey   | `#d9d9d9` | Dividers, secondary text, card borders, subtle backgrounds |
+| Neutral      | Light Grey   | `#d9d9d9` | Dividers, card borders, subtle section backgrounds |
 
 **Rules:**
 - Default to **white-dominant layouts** with steel blue accents and deep black text.
 - Steel blue is the only accent — use it for headings, buttons, and the logo mark.
-- Light grey is supporting only. Never use it for primary text.
+- Light grey is structural only — dividers, borders, and subtle fills. Never use it for text on white (contrast is too low to read).
 - Do not introduce new accent colors (no reds, no chrome silvers, no metallics).
 
 ---
@@ -52,7 +52,7 @@ Recommended pairings (any one of these is acceptable):
 - **H2 (section):** Sans-serif, 700, sentence case.
 - **H3 (service name):** Sans-serif, 600, slightly tighter tracking.
 - **Body:** Sans-serif, 400/500, comfortable line height (1.5+).
-- **Captions / fine print:** Sans-serif, 500, light grey or deep black depending on contrast needs.
+- **Captions / fine print:** Sans-serif, 400 weight, deep black. De-emphasize through weight and size, not color — light grey is not legible as text on a white background.
 
 **Do not:**
 - Mix more than two type weights in a single layout block.
@@ -210,4 +210,4 @@ The brand system must hold up across all of the following surfaces. Each should 
 
 ---
 
-*Last updated: 2026-05-11. This guide is a living document and will be revised as services, equipment, and policy are finalized.*
+*Last updated: 2026-05-16. This guide is a living document and will be revised as services, equipment, and policy are finalized.*

@@ -1,4 +1,4 @@
-# Elite Finish Detailing — Brand & Service Guide
+# Tony's Detailing — Brand & Service Guide
 
 Professional mobile auto detailing based in **Chardon, Ohio**, serving **Geauga County** and **Cuyahoga County**.
 
@@ -8,7 +8,7 @@ Professional mobile auto detailing based in **Chardon, Ohio**, serving **Geauga 
 
 **Personality:** Clean. Professional. Confident. Local.
 
-Elite Finish Detailing is a mobile-first service brand built on craft, reliability, and an honest finish. The brand voice should sound like a detailer who knows the work — direct, no fluff, and never overpromises. Visually, the brand should feel like a freshly finished black sedan parked under a clean light: deep, glossy, and quietly premium.
+Tony's Detailing is a mobile-first service brand built on craft, reliability, and an honest finish. The brand voice should sound like a detailer who knows the work — direct, no fluff, and never overpromises. Visually, the brand should feel like a freshly finished black sedan parked under a clean light: deep, glossy, and quietly premium.
 
 **Tone guidelines:**
 - Direct and factual — describe the work, not the hype.
@@ -65,7 +65,7 @@ Recommended pairings (any one of these is acceptable):
 
 - **Background:** White field.
 - **Mark:** Steel blue with optional deep black detail — a subtle gloss highlight or a clean side-profile car silhouette. The mark should read at a glance on a 1-inch business card and on a truck door.
-- **Wordmark:** "ELITE FINISH DETAILING" set in the brand sans-serif, 700 weight, deep black or steel blue depending on placement.
+- **Wordmark:** "TONY'S DETAILING" set in the brand sans-serif, 700 weight, deep black or steel blue depending on placement.
 - **Negative space matters.** Keep clear space around the mark equal to the cap-height of the wordmark.
 - **One-color variants:** Provide an all-black version (for light surfaces and print) and an all-white knockout version (for use over photography).
 
